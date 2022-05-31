@@ -1,2 +1,2 @@
 # BitmapGame
-This is a simple capture the bit game programmed using a low level language called MIPS 
+ Refer to Bitmap Project Report.pdf for details and sample run screenshots.
